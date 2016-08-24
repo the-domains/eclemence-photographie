@@ -12,3 +12,7 @@ color:
     - '#CF4A30'
     - '#ED8C2B'
 name: E.Clemence Photographie
+navigation:
+  - name: Portfolio perso
+    url: 'http://j.mp/bookperso'
+    type: external
