@@ -1,15 +1,15 @@
 ---
 description: La vie est trop courte pour s’habiller triste
-dateModified: '2016-08-24T16:11:41.173Z'
-datePublished: '2016-08-24T16:12:29.016Z'
+dateModified: '2016-08-24T16:12:46.085Z'
+datePublished: '2016-08-24T16:12:46.224Z'
 title: Easy Rider
 author: []
 publisher:
   name: Emmanuel CLEMENCE
   url: 'http://about.me/emmanuel.clemence'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-24-easy-rider.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
