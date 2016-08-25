@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dernieres photos]]></title>
+        <description><![CDATA[Dernieres photos]]></description>
+        <link>https://thegrid.ai/eclemence-photographie/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 25 Aug 2016 17:22:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eclemence-photographie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d872b38-5d5c-4f87-a2e8-94a53203e9b0.jpg">]]></description>
+            <link>https://thegrid.ai/eclemence-photographie/c93157fe-e4a3-46c5-980c-12ebb329964d/index.html</link>
+            <guid isPermaLink="false">c93157fe-e4a3-46c5-980c-12ebb329964d</guid>
+            <pubDate>Thu, 25 Aug 2016 17:22:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Portraits de professionnels]]></title>
+            <description><![CDATA[<article><h1>Portraits de professionnels</h1><p>Comment savoir si un portrait est bon ou pas ? Au delà de faire plaisir à la personne photographiée [au travers d'une technique et posture photographiques maitrisées], un " bon portrait " est celui qui ressemble vraiment à son modèle et qui va en restituer la facette recherchée et la mettre en relief.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/63b6acc66b35f16c3ca29a8acaac1fff/croprotate.png?cropheight=409&cropwidth=978&degrees=0&input=http%3A%2F%2Fimagine-you.fr%2Fwp-content%2Fuploads%2F2015%2F07%2Fportfolio-portraits-pro.png&x=16&y=12"></article>]]></description>
+            <link>http://imagine-you.fr/realisations-photo-video/portrait-corporate/</link>
+            <guid isPermaLink="false">f63c3230-48eb-4e1d-9d3c-f512a94b0390</guid>
+            <pubDate>Thu, 25 Aug 2016 17:11:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcad8eb6-e24f-4b83-b483-200f3883863d.jpg">]]></description>
+            <link>https://thegrid.ai/eclemence-photographie/e1179fb3-8078-4989-9a50-b4cd083bf956/index.html</link>
+            <guid isPermaLink="false">e1179fb3-8078-4989-9a50-b4cd083bf956</guid>
+            <pubDate>Thu, 25 Aug 2016 17:11:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
