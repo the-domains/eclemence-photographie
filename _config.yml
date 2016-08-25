@@ -12,9 +12,5 @@ color:
     - '#ED8C2B'
 layout_spectrum: 0.6115613738074899
 name: E.Clemence Photographie
-navigation:
-  - name: Portfolio perso
-    url: 'http://j.mp/bookperso'
-    type: external
 title: test
 description: le top
